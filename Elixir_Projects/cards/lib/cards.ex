@@ -8,8 +8,6 @@ defmodule Cards do
   Returns a list of string representing a deck of playing cards
 """
 
-
-
   def create_deck do
     values = ["Ace","Two","Three","Four","Five","Six","Seven"]
     suits = ["Spades","Clubs", "Hearts","Diamonds"]
