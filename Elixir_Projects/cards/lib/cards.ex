@@ -7,7 +7,9 @@ defmodule Cards do
 @doc """
   Returns a list of string representing a deck of playing cards
 """
-  @spec create_deck :: list
+
+
+
   def create_deck do
     values = ["Ace","Two","Three","Four","Five","Six","Seven"]
     suits = ["Spades","Clubs", "Hearts","Diamonds"]
