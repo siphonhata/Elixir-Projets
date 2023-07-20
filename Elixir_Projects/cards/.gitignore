@@ -7,6 +7,7 @@
 # The directory Mix downloads your dependencies sources to.
 /deps/
 
+# Doc file
 /doc/
 
 # Ignore .fetch files in case you like to edit your project deps locally.
